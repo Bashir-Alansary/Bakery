@@ -1,0 +1,9 @@
+.search-content {
+    height: 660px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgb(32 32 32 / 82%);
+    z-index: 99999;
+}

@@ -1,0 +1,208 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "images/product1.png",
+            "price": "24.98$",
+            "title": "Fish Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 2,
+            "image": "images/product2.png",
+            "price": "26.98$",
+            "weight": "320g",
+            "title": "bat Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 3,
+            "image": "images/product3.png",
+            "price": "44.98$",
+            "weight": "600g",
+            "title": "Milk Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 4,
+            "image": "images/product4.png",
+            "price": "34.98$",
+            "weight": "200g",
+            "title": "car Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 5,
+            "image": "images/product5.png",
+            "price": "20.98$",
+            "weight": "300g",
+            "title": "seat Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 6,
+            "image": "images/product6.png",
+            "price": "33.98$",
+            "weight": "800g",
+            "title": "peat Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 7,
+            "image": "images/product7.png",
+            "price": "57.98$",
+            "weight": "580g",
+            "title": "Rice Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        },
+        {
+            "id": 8,
+            "image": "images/product8.png",
+            "price": "27.98$",
+            "weight": "450g",
+            "title": "Meat Bread",
+            "info": "Sample a selection of our best selling breads and treats that will be delivered right to your"
+        }
+    ],
+
+    "team": [
+    {
+        "id": 1,
+        "image": "images/1.jpg",
+        "name": "Ali Samy",
+        "job": "officer Manger"
+    },
+    {
+        "id": 2,
+        "image": "images/2.jpg",
+        "name": "Tamer Elsawy",
+        "job": "officer Manger"
+    },
+    {
+        "id": 3,
+        "image": "images/5.jpg",
+        "name": "Hesham Reda",
+        "job": "officer Manger"
+    },
+    {
+        "id": 3,
+        "image": "images/7.jpg",
+        "name": "Hesham Reda",
+        "job": "officer Manger"
+    }
+    
+],
+    "special": [
+        {
+            "id": 1,
+            "image": "images/s1.jpg",
+            "price": "248$",
+            "title": "Fish Bread"
+        },
+        {
+            "id": 2,
+            "image": "images/s2.jpg",
+            "price": "26.98$",
+            "title": "bat Bread"
+        },
+        {
+            "id": 3,
+            "image": "images/s3.jpg",
+            "price": "448$",
+            "title": "Milk Bread"
+        },
+        {
+            "id": 4,
+            "image": "images/s4.jpg",
+            "price": "398$",
+            "title": "car Bread"
+        },
+        {
+            "id": 5,
+            "image": "images/s5.jpg",
+            "price": "208$",
+            "title": "seat Bread"
+        },
+        {
+            "id": 6,
+            "image": "images/s6.jpg",
+            "price": "788$",
+            "title": "peat Bread"
+        },
+        {
+            "id": 7,
+            "image": "images/s7.jpg",
+            "price": "578$",
+            "title": "Rice Bread"
+        },
+        {
+            "id": 8,
+            "image": "images/s8.jpg",
+            "price": "398$",
+            "title": "Meat Bread"
+        }
+    ],
+    "order": [
+        {
+            "id": 1,
+            "image": "images/f1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "images/f2.jpeg"
+        },
+        {
+            "id": 3,
+            "image": "images/f3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "images/f4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "images/f5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "images/f6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "images/f7.jpeg"
+        },
+        {
+            "id": 8,
+            "image": "images/f8.jpg"
+        },
+        {
+            "id": 9,
+            "image": "images/f9.jpg"
+        },
+        {
+            "id": 10,
+            "image": "images/f10.jpeg"
+        }
+    ],
+    "cart": [
+        {
+            "id": 1,
+            "image": "images/product4.png",
+            "name": "Pizza",
+            "price": 10.99
+        },
+        {
+            "id": 2,
+            "image": "images/product5.png",
+            "name": "Spagati",
+            "price": 10.99
+        },
+        {
+            "id": 3,
+            "image": "images/product3.png",
+            "name": "chicken",
+            "price": 10.99
+        }
+    ]
+
+}

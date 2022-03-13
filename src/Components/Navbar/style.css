@@ -1,0 +1,13 @@
+
+.nav-active {
+    height: 78px !important;
+}
+
+.hide {
+    margin-left: -300px;
+}
+
+.show {
+    display: block;
+    padding-top: 0 !important;
+}
